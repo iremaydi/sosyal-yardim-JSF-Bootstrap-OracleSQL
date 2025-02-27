@@ -1,3 +1,22 @@
+# Sosyal Yardım Yönetim Sistemi 📌  
+
+Bu proje, **JavaServer Faces (JSF), Bootstrap ve Oracle SQL** kullanılarak geliştirilen **web tabanlı bir sosyal yardım yönetim sistemi**dir.  
+
+## 🚀 Özellikler  
+✅ **Müracaat Yönetimi:** Kullanıcıların sosyal yardım taleplerini oluşturmasını sağlar.  
+✅ **Veri Tabanı Entegrasyonu:** Oracle SQL kullanılarak güvenli veri yönetimi sağlanır.  
+✅ **Modern Arayüz:** Bootstrap ile geliştirilmiş responsive tasarım.  
+✅ **Kullanıcı Yetkilendirme:** Admin ve kullanıcı rollerine göre erişim kontrolü.  
+
+## 🛠️ Kullanılan Teknolojiler  
+- **Frontend:** JSF, Bootstrap, jQuery  
+- **Backend:** Java, JSF Managed Beans  
+- **Veritabanı:** Oracle SQL  
+
+📌 **Daha fazla bilgi ve kod detayları için projeyi inceleyebilirsiniz!**  
+
+
+
 # Gebze Sosyal Yardım sitesinin yapılışı için kılavuz
 
 <hr>
